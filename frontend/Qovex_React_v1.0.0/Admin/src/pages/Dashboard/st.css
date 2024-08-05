@@ -1,0 +1,44 @@
+/* Define styles for the page content */
+.page-content {
+    padding: 20px; /* Adjust padding as needed */
+  }
+  
+  /* Define styles for the breadcrumbs */
+  .Breadcrumbs {
+    /* Add styles for breadcrumbs */
+  }
+  
+  /* Define styles for the form elements */
+  form {
+    margin-bottom: 20px; /* Add margin bottom as needed */
+  }
+  
+  h6 {
+    margin-top: 10px; /* Add margin top for h6 elements */
+  }
+  
+  input[type='text'],
+  textarea {
+    width: calc(100% - 20px); /* Adjust width and consider padding */
+    padding: 10px; /* Adjust padding as needed */
+    margin-bottom: 10px; /* Add margin bottom as needed */
+  }
+  
+  textarea {
+    height: 150px; /* Set a fixed height for textarea */
+  }
+  
+  input[type='file'] {
+    margin-bottom: 10px; /* Add margin bottom as needed */
+  }
+  
+  Button {
+    background-color: #007bff; /* Set background color */
+    color: #fff; /* Set text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none; /* Remove border */
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  
+  /* Additional classes or styles can be defined based on your requirements */
+  
